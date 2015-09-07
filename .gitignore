@@ -1,0 +1,32 @@
+### Sass template
+.sass-cache/
+*.css.map
+
+## Directory-based project format:
+.idea/
+
+### Rails template
+*.rbc
+capybara-*.html
+.rspec
+/log
+/tmp
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/system
+/coverage/
+/spec/tmp
+**.orig
+rerun.txt
+pickle-email-*.html
+.ruby-version
+config/secrets.yml
+config/database.yml
+
+## Environment normalisation:
+/.bundle
+/vendor/bundle
+
+# Ignore pow environment settings
+### OSX template
+.DS_Store
